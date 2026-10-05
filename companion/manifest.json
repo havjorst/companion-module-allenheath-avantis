@@ -1,18 +1,18 @@
 {
 	"$schema": "../node_modules/@companion-module/base/assets/manifest.schema.json",
 	"type": "connection",
-	"id": "allenheath-avantis",
-	"name": "allenheath-avantis",
-	"shortname": "avantis",
-	"description": "Allen & Heath Avantis Mixer",
+	"id": "allenheath-avantis-96ch",
+	"name": "Avantis 96ch (Unofficial Fork)",
+	"shortname": "Avantis 96",
+	"description": "Unofficial Avantis fork with support for up to 96 inputs on V2.0 dPack systems",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-allenheath-avantis.git",
-	"bugs": "https://github.com/bitfocus/companion-module-allenheath-avantis/issues",
+	"repository": "git+https://github.com/havjorst/companion-module-allenheath-avantis.git",
+	"bugs": "https://github.com/havjorst/companion-module-allenheath-avantis/issues",
 	"maintainers": [
 		{
-			"name": "Erlend Jones",
-			"email": "erlend@bitfocus.io"
+			"name": "havjorst",
+			"github": "havjorst"
 		}
 	],
 	"runtime": {

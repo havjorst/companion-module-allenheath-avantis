@@ -98,7 +98,9 @@ export default class ModuleInstance extends InstanceBase<ModuleSchema> {
 	async configUpdated(config: ModuleConfig, _secrets: undefined): Promise<void> {
 		this.config = config
 		this.updateActions()
+		this.updateFeedbacks()
 		this.updatePresets()
+		this.updateVariableDefinitions()
 		this.initTcp()
 	}
 

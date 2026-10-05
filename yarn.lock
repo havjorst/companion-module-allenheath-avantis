@@ -589,9 +589,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"allenheath-avantis@workspace:.":
+"allenheath-avantis-96ch@workspace:.":
   version: 0.0.0-use.local
-  resolution: "allenheath-avantis@workspace:."
+  resolution: "allenheath-avantis-96ch@workspace:."
   dependencies:
     "@companion-module/base": "npm:2.0.4"
     "@companion-module/tools": "npm:^3.1.0"

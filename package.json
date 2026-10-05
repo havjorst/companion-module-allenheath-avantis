@@ -1,5 +1,5 @@
 {
-  "name": "allenheath-avantis",
+  "name": "allenheath-avantis-96ch",
   "version": "2.0.2",
   "type": "module",
   "keywords": [
@@ -7,7 +7,7 @@
     "Allen & Heath Mixer"
   ],
   "main": "dist/main.js",
-  "description": "Module to control Allen & Heath Avantis Mixer",
+  "description": "Unofficial Avantis fork with support for up to 96 inputs on V2.0 dPack systems",
   "scripts": {
     "postinstall": "husky",
     "format": "prettier -w .",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitfocus/companion-module-allenheath-avantis.git"
+    "url": "git+https://github.com/havjorst/companion-module-allenheath-avantis.git"
   },
   "engines": {
     "node": "^22.18",

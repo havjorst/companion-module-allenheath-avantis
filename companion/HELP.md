@@ -1,6 +1,6 @@
-# Allen & Heath Avantis module
+# Avantis 96ch (Unofficial Fork)
 
-Controls the Allen & Heath Avantis mixer.
+Unofficial fork of the Allen & Heath Avantis Companion module, with support for up to 96 inputs on V2.0 dPack systems.
 
 ## Functions:
 
@@ -16,4 +16,4 @@ Controls the Allen & Heath Avantis mixer.
 - Enter the target IP address of your Avantis console.
 - Enter the MIDI base channel configured on the console under Utility > Control > MIDI.
 
-> Current version: 2.0.0
+> Configure the input count in the module settings to match your console.
